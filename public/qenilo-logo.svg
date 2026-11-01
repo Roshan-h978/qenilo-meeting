@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 248 56" fill="none">
+  <g stroke="#fff" stroke-linejoin="round" stroke-linecap="round">
+    <path d="M4 15.5C4 10.806 7.806 7 12.5 7h21C38.194 7 42 10.806 42 15.5v14C42 34.194 38.194 38 33.5 38H25l-11 11V38h-1.5C7.806 38 4 34.194 4 29.5v-14Z" stroke-width="3"/>
+    <path d="M14 22h18M23 13v18" stroke-width="2.6"/>
+  </g>
+  <text x="57" y="35" fill="#fff" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="700" letter-spacing="4">QENILO</text>
+</svg>

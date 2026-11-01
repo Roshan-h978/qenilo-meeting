@@ -1,0 +1,10 @@
+Django>=6.0,<6.1
+djangorestframework>=3.16,<4
+channels[daphne]>=4.3.2,<5
+channels-redis>=4.3,<5
+django-cors-headers>=4.7,<5
+dj-database-url>=2.3,<3
+psycopg[binary]>=3.2,<4
+python-dotenv>=1,<2
+google-auth[requests]>=2.38,<3
+argon2-cffi>=23.1,<26
